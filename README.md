@@ -10,3 +10,5 @@ Connor - I did 2 semesters of construction management back in 2017 and then star
 Leah - I am an applied technology major and I love reading, watching movies, and I love Indian Food. I am sorry in advance for all pf the questions I will be asking!
 
 Madi - I plan to graduate in December. I have changed my major around 9 times so I feel like I've become pretty well rounded in my interests and skills haha
+
+Izak - I'm am a CIT major. In my spare time you'll find me playing frisbee golf and watching movies. I have about over a year left before I graduate.
