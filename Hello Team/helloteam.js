@@ -1,4 +1,4 @@
-const names = ["Corban", ];
+const names = ["Corban", "Madi", ];
 
   names.forEach(helloTeam)
 
